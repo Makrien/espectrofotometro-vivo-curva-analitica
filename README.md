@@ -4,7 +4,7 @@ Os valores obtidos em prática são fruto de um “espectrofotômetro vivo”, e
 Para isso, foi utilizada a lei de Lambert-Beer para chegar à curva analítica do caminho óptico em função das concentrações das amostras. Mantendo a absorbância e absortividade molar constantes, a equação foi rearranjada da seguinte forma:
 
 <p align="center" font-size=24>
-  $\frac{1}{b} = \frac{\varepsilon}{A} \cdot c$
+ $\frac{1}{b} = \frac{\varepsilon}{A} \cdot c$
 </p>
 
 Os valores experimentais utilizados na confecção da curva analítica encontram-se na tabela abaixo.
