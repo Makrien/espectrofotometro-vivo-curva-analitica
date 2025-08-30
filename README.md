@@ -5,7 +5,7 @@ Para isso, foi utilizada a lei de Lambert-Beer para chegar à curva analítica d
 $\frac{1}{b} = \frac{\varepsilon}{A} \cdot c$
 Os valores experimentais utilizados na confecção da curva analítica encontram-se na tabela abaixo.
 | Concentração de ferro (III) na solução (em mg/L) | b (cm) |
-| --- | ---|
+| :---: | :---: |
 | 5,000 | 7,7 |
 | 10,00 | 3,3 |
 | 15,00 | 2,3 |
