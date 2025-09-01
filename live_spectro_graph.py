@@ -2,8 +2,9 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Sample data (concentration is x in mg/L and inversed_path is y in cm⁻¹)
-concentration = np.linspace(25, 5, 5)
-inversed_path = [1/1.3, 1/1.8, 1/2.3, 1/3.3, 1/7.7]
+concentration = np.array([25, 20, 15, 10, 5])
+heights = np.array([1.3, 1.8, 2.3, 3.3, 7.7])
+inversed_path = 1 / heights
 
 # Considering y = mx + b, m being the slope and b the intercept
 # This function returns m and b
