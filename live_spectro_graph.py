@@ -23,8 +23,8 @@ r_squared = corr**2
 
 # Strings for adding linear equation and coefficients of determination r² and correlation r
 equation_txt = f"Equação da reta: 1/b = {slope:.4f}c"
-corr_txt = f"Coeficiente de correlação r = {corr}"
-r_squared_txt = f"Coeficiente de determinação r² = {r_squared}"
+corr_txt = f"Coeficiente de correlação r = {corr:.4f}"
+r_squared_txt = f"Coeficiente de determinação r² = {r_squared:.4f}"
 
 # Comparative graphic
 plt.figure(figsize=(12, 8))
